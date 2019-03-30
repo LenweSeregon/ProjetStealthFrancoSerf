@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "idRecipe": "iron_ore",
+      "heatTime": 5,
+      "temperatureNeeded": 1500,
+      "itemToHeatID": "iron_ore",
+      "itemHeatedID": "iron_ingot"
+    },
+    {
+      "idRecipe": "copper_ore",
+      "heatTime": 5,
+      "temperatureNeeded": 1000,
+      "itemToHeatID": "copper_ore",
+      "itemHeatedID": "copper_ingot"
+    }
+  ]
+}

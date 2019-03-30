@@ -1,0 +1,214 @@
+{
+  "items": [
+	{
+      "id": "work_table_recipe",
+      "idCraftedItem": "work_table",
+      "category": "craftRecipes.categories.structures",
+      "makingTimeAsSecond": 5,
+      "levelRequired": 1,
+      "craftingTableRequired": false,
+      "ingredients": [
+        {
+          "idItemIngredient": "maple_log",
+          "quantity": 5
+        },
+		{
+          "idItemIngredient": "stone",
+          "quantity": 3
+        }
+      ]
+    },
+	{
+      "id": "chest_recipe",
+      "idCraftedItem": "chest",
+      "category": "craftRecipes.categories.structures",
+      "makingTimeAsSecond": 5,
+      "levelRequired": 1,
+      "craftingTableRequired": true,
+      "ingredients": [
+        {
+          "idItemIngredient": "maple_log",
+          "quantity": 10
+        }
+      ]
+    },
+	{
+      "id": "furnace_recipe",
+      "idCraftedItem": "furnace",
+      "category": "craftRecipes.categories.structures",
+      "makingTimeAsSecond": 5,
+      "levelRequired": 1,
+      "craftingTableRequired": false,
+      "ingredients": [
+        {
+          "idItemIngredient": "stone",
+          "quantity": 3
+        }
+      ]
+    },
+
+
+	{
+      "id": "decoder_recipe",
+      "idCraftedItem": "decoder",
+      "category": "craftRecipes.categories.miscellaneous",
+      "makingTimeAsSecond": 5,
+      "levelRequired": 1,
+      "craftingTableRequired": true,
+      "ingredients": [
+        {
+          "idItemIngredient": "stone",
+          "quantity": 1
+        }
+      ]
+    },
+	{
+      "id": "key_recipe",
+      "idCraftedItem": "key",
+      "category": "craftRecipes.categories.miscellaneous",
+      "makingTimeAsSecond": 5,
+      "levelRequired": 1,
+      "craftingTableRequired": true,
+      "ingredients": [
+        {
+          "idItemIngredient": "iron_ingot",
+          "quantity": 3
+        }
+      ]
+    },
+	{
+      "id": "trap_recipe",
+      "idCraftedItem": "trap",
+      "category": "craftRecipes.categories.miscellaneous",
+      "makingTimeAsSecond": 5,
+      "levelRequired": 1,
+      "craftingTableRequired": true,
+      "ingredients": [
+        {
+          "idItemIngredient": "iron_ingot",
+          "quantity": 3
+        },
+		{
+          "idItemIngredient": "copper_ingot",
+          "quantity": 3
+        }
+      ]
+    },
+	{
+      "id": "breaker_recipe",
+      "idCraftedItem": "breaker",
+      "category": "craftRecipes.categories.miscellaneous",
+      "makingTimeAsSecond": 5,
+      "levelRequired": 1,
+      "craftingTableRequired": true,
+      "ingredients": [
+        {
+          "idItemIngredient": "stone",
+          "quantity": 1
+        }
+      ]
+    },
+
+    {
+      "id": "wooden_axe_recipe",
+      "idCraftedItem": "wooden_axe",
+      "category": "craftRecipes.categories.tools",
+      "makingTimeAsSecond": 5,
+      "levelRequired": 1,
+      "craftingTableRequired": false,
+      "ingredients": [
+        {
+          "idItemIngredient": "maple_log",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "stone_axe_recipe",
+      "idCraftedItem": "stone_axe",
+      "category": "craftRecipes.categories.tools",
+      "makingTimeAsSecond": 5,
+      "levelRequired": 1,
+      "craftingTableRequired": false,
+      "ingredients": [
+        {
+          "idItemIngredient": "stone",
+          "quantity": 2
+        },
+        {
+          "idItemIngredient": "maple_log",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "iron_axe_recipe",
+      "idCraftedItem": "iron_axe",
+      "category": "craftRecipes.categories.tools",
+      "makingTimeAsSecond": "10",
+      "levelRequired": 1,
+      "craftingTableRequired": true,
+      "ingredients": [
+        {
+          "idItemIngredient": "iron_ore",
+          "quantity": 2
+        },
+        {
+          "idItemIngredient": "maple_log",
+          "quantity": 1
+        }
+      ]
+    },
+
+    {
+      "id": "wooden_pickaxe_recipe",
+      "idCraftedItem": "wooden_pickaxe",
+      "category": "craftRecipes.categories.tools",
+      "makingTimeAsSecond": 5,
+      "levelRequired": 1,
+      "craftingTableRequired": false,
+      "ingredients": [
+        {
+          "idItemIngredient": "maple_log",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "stone_pickaxe_recipe",
+      "idCraftedItem": "stone_pickaxe",
+      "category": "craftRecipes.categories.tools",
+      "makingTimeAsSecond": 5,
+      "levelRequired": 1,
+      "craftingTableRequired": false,
+      "ingredients": [
+        {
+          "idItemIngredient": "stone",
+          "quantity": 2
+        },
+        {
+          "idItemIngredient": "maple_log",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "iron_pickaxe_recipe",
+      "idCraftedItem": "iron_pickaxe",
+      "category": "craftRecipes.categories.tools",
+      "makingTimeAsSecond": "10",
+      "levelRequired": 1,
+      "craftingTableRequired": true,
+      "ingredients": [
+        {
+          "idItemIngredient": "iron_ore",
+          "quantity": 2
+        },
+        {
+          "idItemIngredient": "maple_log",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}

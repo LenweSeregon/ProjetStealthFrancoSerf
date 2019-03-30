@@ -1,0 +1,303 @@
+{
+  "items": [
+    {
+      "id": "work_table",
+      "nameI18n": "items.workTable.name",
+      "icon": "WorkTable_Icon",
+	  "model3D":"Prefabs/Structures/WorkTable",
+      "weight": 1.0,
+      "descriptionI18n": "items.workTable.description",
+      "isStackable": false,
+      "durability": -1,
+	  "actionsID": [
+	  	  "items.actions.erase",
+		  "items.actions.place"
+	  ]
+    },
+	{
+      "id": "chest",
+      "nameI18n": "items.chest.name",
+      "icon": "Chest_Icon",
+	  "model3D":"Prefabs/Structures/Chest",
+      "weight": 1.0,
+      "descriptionI18n": "items.chest.description",
+      "isStackable": false,
+      "durability": -1,
+	  "actionsID": [
+	  	  "items.actions.erase",
+		  "items.actions.place"
+	  ]
+    },
+	{
+      "id": "furnace",
+      "nameI18n": "items.furnace.name",
+      "icon": "Furnace_Icon",
+	  "model3D":"Prefabs/Structures/Furnace",
+      "weight": 1.0,
+      "descriptionI18n": "items.furnace.description",
+      "isStackable": false,
+      "durability": -1,
+	  "actionsID": [
+	  	  "items.actions.erase",
+		  "items.actions.place"
+	  ]
+    },
+
+
+	{
+      "id": "decoder",
+      "nameI18n": "items.decoder.name",
+      "icon": "Decoder_Icon",
+	  "model3D":"null",
+      "weight": 1.0,
+      "descriptionI18n": "items.decoder.description",
+      "isStackable": true,
+      "durability": -1,
+	  "actionsID": [
+	  	  "items.actions.erase"
+	  ]
+    },
+	{
+      "id": "key",
+      "nameI18n": "items.key.name",
+      "icon": "Key_Icon",
+	  "model3D":"null",
+      "weight": 1.0,
+      "descriptionI18n": "items.key.description",
+      "isStackable": true,
+      "durability": -1,
+	  "actionsID": [
+	  	  "items.actions.erase"
+	  ]
+    },
+	{
+      "id": "trap",
+      "nameI18n": "items.trap.name",
+      "icon": "Trap_Icon",
+	  "model3D":"null",
+      "weight": 1.0,
+      "descriptionI18n": "items.trap.description",
+      "isStackable": true,
+      "durability": -1,
+	  "actionsID": [
+	  	  "items.actions.erase"
+	  ]
+    },
+	{
+      "id": "breaker",
+      "nameI18n": "items.breaker.name",
+      "icon": "Breaker_Icon",
+	  "model3D":"null",
+      "weight": 1.0,
+      "descriptionI18n": "items.breaker.description",
+      "isStackable": true,
+      "durability": -1,
+	  "actionsID": [
+	  	  "items.actions.erase"
+	  ]
+    },
+
+
+	{
+      "id": "copper_ingot",
+      "nameI18n": "items.copperIngot.name",
+      "icon": "CopperIngot_Icon",
+	  "model3D":"null",
+      "weight": 0.2,
+      "descriptionI18n": "items.copperIngot.description",
+      "isStackable": true,
+      "durability": -1,
+	  "actionsID": [
+	  	  "items.actions.erase"
+	  ]
+    },
+	{
+      "id": "iron_ingot",
+      "nameI18n": "items.ironIngot.name",
+      "icon": "IronIngot_Icon",
+	  "model3D":"null",
+      "weight": 0.1,
+      "descriptionI18n": "items.ironIngot.description",
+      "isStackable": true,
+      "durability": -1,
+	  "actionsID": [
+	  	  "items.actions.erase"
+	  ]
+    },
+
+	{
+      "id": "coal",
+      "nameI18n": "items.coal.name",
+      "icon": "Coal_Icon",
+	  "model3D":"null",
+      "weight": 0.1,
+      "descriptionI18n": "items.coal.description",
+      "isStackable": true,
+      "durability": -1,
+	  "actionsID": [
+	  	  "items.actions.erase"
+	  ]
+    },
+    {
+      "id": "stone",
+      "nameI18n": "items.stone.name",
+      "icon": "Stone_Icon",
+	  "model3D":"null",
+      "weight": 0.1,
+      "descriptionI18n": "items.stone.description",
+      "isStackable": true,
+      "durability": -1,
+	  "actionsID": [
+	  	  "items.actions.erase"
+	  ]
+    },
+    {
+      "id": "copper_ore",
+      "nameI18n": "items.copperOre.name",
+      "icon": "CopperOre_Icon",
+	  "model3D":"null",
+      "weight": 0.1,
+      "descriptionI18n": "items.copperOre.description",
+      "isStackable": true,
+      "durability": -1,
+	  "actionsID": [
+	  	  "items.actions.erase"
+	  ]
+    },
+    {
+      "id": "iron_ore",
+      "nameI18n": "items.ironOre.name",
+      "icon": "IronOre_Icon",
+	  "model3D":"null",
+      "weight": 0.1,
+      "descriptionI18n": "items.ironOre.description",
+      "isStackable": true,
+      "durability": -1,
+	  "actionsID": [
+	  	  "items.actions.erase"
+	  ]
+    },
+    {
+      "id": "maple_log",
+      "nameI18n": "items.mapleLog.name",
+      "icon": "MapleLog_Icon",
+	  "model3D":"null",
+      "weight": 0.5,
+      "descriptionI18n": "items.mapleLog.description",
+      "isStackable": true,
+      "durability": -1,
+	  "actionsID": [
+	  	  "items.actions.erase"
+	  ]
+    },
+
+
+    {
+      "id": "wooden_axe",
+      "nameI18n": "items.woodenAxe.name",
+      "icon": "WoodenAxe_Icon",
+	  "model3D":"Prefabs/Tools/woodenAxe",
+      "weight": 1.0,
+      "descriptionI18n": "items.woodenAxe.description",
+      "isStackable": false,
+      "durability": 10,
+	  "actionsID": [
+	  	  "items.actions.erase"
+	  ]
+    },
+    {
+      "id": "stone_axe",
+      "nameI18n": "items.stoneAxe.name",
+      "icon": "StoneAxe_Icon",
+	  "model3D":"Prefabs/Tools/stoneAxe",
+      "weight": 1.5,
+      "descriptionI18n": "items.stoneAxe.description",
+      "isStackable": false,
+      "durability": 20,
+	  "actionsID": [
+	  	  "items.actions.erase"
+	  ]
+    },
+    {
+      "id": "iron_axe",
+      "nameI18n": "items.ironAxe.name",
+      "icon": "IronAxe_Icon",
+	  "model3D":"Prefabs/Tools/ironAxe",
+      "weight": 2.0,
+      "descriptionI18n": "items.ironAxe.description",
+      "isStackable": false,
+      "durability": 30,
+	  "actionsID": [
+	  	  "items.actions.erase"
+	  ]
+    },
+
+    {
+      "id": "wooden_pickaxe",
+      "nameI18n": "items.woodenPickaxe.name",
+      "icon": "WoodenPickaxe_Icon",
+	  "model3D":"Prefabs/Tools/woodenPickaxe",
+      "weight": 1.0,
+      "descriptionI18n": "items.woodenPickaxe.description",
+      "isStackable": false,
+      "durability": 10,
+	  "actionsID": [
+	  	  "items.actions.erase"
+	  ]
+    },
+    {
+      "id": "stone_pickaxe",
+      "nameI18n": "items.stonePickaxe.name",
+      "icon": "StonePickaxe_Icon",
+	  "model3D":"Prefabs/Tools/stonePickaxe",
+      "weight": 1.5,
+      "descriptionI18n": "items.stonePickaxe.description",
+      "isStackable": false,
+      "durability": 20,
+	  "actionsID": [
+	  	  "items.actions.erase"
+	  ]
+    },
+    {
+      "id": "iron_pickaxe",
+      "nameI18n": "items.ironPickaxe.name",
+      "icon": "IronPickaxe_Icon",
+	  "model3D":"Prefabs/Tools/ironPickaxe",
+      "weight": 2.0,
+      "descriptionI18n": "items.ironPickaxe.description",
+      "isStackable": false,
+      "durability": 30,
+	  "actionsID": [
+	  	  "items.actions.erase"
+	  ]
+    },
+
+
+    {
+      "id": "iron_sword",
+      "nameI18n": "items.ironSword.name",
+      "icon": "IronSword_Icon",
+	  "model3D":"null",
+      "weight": 2.0,
+      "descriptionI18n": "items.ironSword.description",
+      "isStackable": false,
+      "durability": 30,
+	  "actionsID": [
+	  	  "items.actions.erase"
+	  ]
+    },
+    {
+      "id": "double_ended_iron_sword",
+      "nameI18n": "items.double_ended_iron_sword.name",
+      "icon": "DoubleEndedIronSword_Icon",
+	  "model3D":"null",
+      "weight": 2.0,
+      "descriptionI18n": "items.double_ended_iron_sword.description",
+      "isStackable": false,
+      "durability": 30,
+	  "actionsID": [
+	  	  "items.actions.erase"
+	  ]
+    }
+  ]
+}

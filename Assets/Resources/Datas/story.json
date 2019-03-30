@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "id": "story_1",
+      "level": 0,
+      "i18nIDTitle": "story_level_1_title",
+      "i18nIDText": "story_level_1",
+	  "illustrationPath":"Chest_Icon"
+    },
+    {
+      "id": "story_2",
+      "level": 1,
+      "i18nIDTitle": "story_level_2_title",
+      "i18nIDText": "story_level_2",
+	  "illustrationPath":"WorkTable_Icon"
+    }
+  ]
+}

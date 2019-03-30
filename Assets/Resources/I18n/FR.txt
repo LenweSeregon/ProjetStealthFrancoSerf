@@ -1,0 +1,286 @@
+# ======================================== #
+# ======================================== #
+# ===== Menus internationalization
+# ======================================== #
+# ======================================== #
+
+# =================
+# == Main menu
+# =================
+menus.buttonText.play = Jouer
+menus.buttonText.load = Charger
+menus.buttonText.save = Sauvegarder
+menus.buttonText.quit = Quitter
+menus.buttonText.settings = Options
+
+# =================
+# == Pause menu
+# =================
+menus.pauseMenu.buttonText.resume = Reprendre
+menus.pauseMenu.buttonText.load = Charger
+menus.pauseMenu.buttonText.save = Sauvegarder
+menus.pauseMenu.buttonText.settings = Options
+menus.pauseMenu.buttonText.exitToMenu = Quitter vers le menu
+menus.pauseMenu.buttonText.exit = Quitter
+
+# =================
+# == Load menu
+# =================
+menus.loadMenu.title = Charger une partie
+menus.loadMenu.buttonText.load = Charger
+
+# =================
+# == Save menu
+# =================
+menu.saveMenu.title = Sauvegarder la partie
+menu.saveMenu.buttonText.save = Sauvegarder
+menu.saveMenu.buttonText.newSave = Nouvelle sauvegarde
+menu.saveMenu.confirmationErase.title = Confirmer suppression sur
+menu.saveMenu.confirmationErase.buttonText.yes = Oui
+menu.saveMenu.confirmationErase.buttonText.no = Non
+menu.saveMenu.newSave.title = Nouvelle sauvegarde
+menu.saveMenu.newSave.inputField.enterText = Nom de la sauvegarde...
+menu.saveMenu.newSave.buttonText.save = Sauvegarder
+menu.saveMenu.newSave.buttonText.cancel = Annuler
+menu.saveMenu.error.title = Erreur
+menu.saveMenu.error.errorMessage.alreadyExist = Votre nom de sauvegarde existe deja
+menu.saveMenu.error.errorMessage.emptyName = Votre nom de sauvegarde ne peut pas etre vide
+
+# =================
+# == Option menu
+# =================
+menus.settingsMenu.title = Options
+menus.settingsMenu.back = Retour
+menus.settingsMenu.languages.title = Langues
+menus.settingsMenu.languages.french = Francais
+menus.settingsMenu.languages.english = Anglais
+menus.settingsMenu.audio.title = Audio
+menus.settingsMenu.audio.MusicActivated = Musique activee
+menus.settingsMenu.audio.volume = Volume
+menus.settingsMenu.graphics.title = Graphiques
+menus.settingsMenu.graphics.resolutionText = Resolution
+menus.settingsMenu.graphics.fullscreenText = Plein ecran
+menus.settingsMenu.graphics.qualityText = Qualite
+menus.settingsMenu.graphics.quality.low = FAIBLE
+menus.settingsMenu.graphics.quality.medium = MOYEN
+menus.settingsMenu.graphics.quality.high = HAUT
+
+# =================
+# == Back panel
+# =================
+menus.buttonText.back = Retour
+
+# =================
+# == Update language menu
+# =================
+menus.updateLanguage.update = Mise a jour de la langue
+menus.updateLanguage.wait = Patientez ...
+
+# =================
+# == Loading screen menu
+# =================
+menus.loadingScreen.message = Chargement du jeu
+menus.loadingScreen.wait = Patientez ...
+
+# =================
+# == Exit screen menu
+# =================
+menus.exitingToMainMenu.message = Retour vers le menu
+menus.exitingToMainMenu.wait = Patientez ...
+
+# =================
+# == Inventory Menu
+# =================
+gui.inventory.title = Inventaire
+gui.inventory.informationPanel.title = Informations
+gui.inventory.informationPanel.nameTitle = Nom :
+gui.inventory.informationPanel.weightTitle = Poids :
+gui.inventory.informationPanel.otherTitle = Autre :
+gui.inventory.informationPanel.descriptionTitle = Description :
+
+# =================
+# == Inventory Dual Menu
+# =================
+gui.inventoryDual.title = Inventaire
+gui.inventoryDual.inventoryNameLeft = Joueur
+gui.inventoryDual.inventoryNameRight = Conteneur
+
+# =================
+# == Craft Menu
+# =================
+gui.craftMenu.title = Atelier
+gui.craftMenu.searchPanel.inputField.search = Nom de la recette...
+gui.craftMenu.button.craft = Fabriquer
+gui.craftMenu.button.craftAll = Fabriquer tout
+gui.craftMenu.button.cancel = Annuler
+gui.craftMenu.ingredients.title = Composants
+
+# =================
+# == Furnace Menu
+# =================
+gui.furnaceMenu.title = Four
+gui.furnaceMenu.inventoryLeft = Inventaire
+gui.furnaceMenu.temperature.text = Temperature
+gui.furnaceMenu.combustible.text = Combustible
+gui.furnaceMenu.button.blow = Souffler
+
+# =================
+# == InGameCube
+# =================
+gui.inGameCube.interact = Interagir : F
+
+# ======================================== #
+# ======================================== #
+# ===== Recipes internationalization
+# ======================================== #
+# ======================================== #
+
+# =================
+# == Recipe categories
+# =================
+craftRecipes.categories.tools = Outils
+craftRecipes.categories.weapons = Armes
+craftRecipes.categories.structures = Constructions
+craftRecipes.categories.miscellaneous = Divers
+
+# ======================================== #
+# ======================================== #
+# ===== Items internationalization
+# ======================================== #
+# ======================================== #
+
+# ======================================== #
+# ======================================== #
+# ===== Items Actions
+# ======================================== #
+# ======================================== #
+items.actions.erase = Supprimer
+items.actions.place = Placer
+
+# ======================================== #
+# ======================================== #
+# ===== Items Name and Description
+# ======================================== #
+# ======================================== #
+
+items.decoder.name = Decodeur
+items.decoder.description = Un decodeur permettant de comprendre les textes incomprehensible
+
+items.key.name = Passe-partout
+items.key.description = Passe-partout pouvant ouvrir toutes les portes
+
+items.trap.name = Piege
+items.trap.description = Un piege pouvant etre installer sur une installation electrique pour electrocuter
+
+items.breaker.name = Casseur
+items.breaker.description = Un casseur electronique permettant d'hacker les ordinateurs
+
+items.furnace.name = Four
+items.furnace.description = Un four pour les minerais
+
+items.workTable.name = Table de travail
+items.workTable.description = Une table de travail pour construire tout ce dont l'on a besoin
+
+items.chest.name = Coffre
+items.chest.description = Un coffre pour ranger ses affaires
+
+items.copperIngot.name = Lingot de cuivre
+items.copperIngot.description = Un lingot de cuivre
+
+items.ironIngot.name = Lingot de fer
+items.ironIngot.description = Un lingot de fer
+
+items.coal.name = Charbon
+items.coal.description = Un morceau de charbon pour allumer des choses
+
+items.stone.name = Pierre
+items.stone.description = Une pierre basique
+
+items.copperOre.name = Minerai de cuivre
+items.copperOre.description = Un minerai de cuivre flamboyant
+
+items.ironOre.name = Minerai de fer
+items.ironOre.description = Un minerai de fer flamboyant
+
+items.mapleLog.name = Tronc de chene
+items.mapleLog.description = Merveilleux tronc d'un chene
+
+items.woodenAxe.name = Hache en bois
+items.woodenAxe.description = Une hache minable
+
+items.stoneAxe.name = Hache en pierre
+items.stoneAxe.description = Une hache moyenne resistant a quelques coups
+
+items.ironAxe.name = Hache en fer
+items.ironAxe.description = Une bonne hache pour couper des arbres
+
+items.woodenPickaxe.name = Pioche en bois
+items.woodenPickaxe.description = Une pioche minable
+
+items.stonePickaxe.name = Pioche en pierre
+items.stonePickaxe.description = Une pioche moyenne resistant a quelques coups 
+
+items.ironPickaxe.name = Pioche en fer
+items.ironPickaxe.description = Une bonne hache pour detruire les minerais et roches
+
+items.ironSword.name = Epee en fer
+items.ironSword.description = Une bonne epee pour trancher les ennemis
+
+items.double_ended_iron_sword.name = Epee a double lame en acier
+items.double_ended_iron_sword.description = Une epee pour couper des 2 cotes
+
+# ======================================== #
+# ======================================== #
+# ===== Stories
+# ======================================== #
+# ======================================== #
+story_level_1_title = 1. Un homme catapulte sur Satisa
+story_level_1 = Par ou commencer ... Je m'appelle Brice, et l'agence vient de m'envoyer sur l'ile de Satisa. Si vous ne connaissez pas ce nom, c'est normal... Satisa est le code utilise par mon organisation pour identifier cette ile dont personne ne comprend le fonctionnement. On trouve ci et la des vegetaux se regenerant tout seul, et un immense batiment en forme de cube au fond de l'ile. La mission semble assez simple, je dois infiltrer a de nombreuses reprises ce complexe afin d'obtenir des informations sur la presence de cette ile troublante et faire un rapport sur les occupants du cube..
+
+story_level_2_title = Une premiere intrusion
+story_level_2 = Ca y est, je l'ai fais, je viens de sortir du cube pour la premiere fois. Il y aurait tant a ecrire mais je ne suis pas sur de certaines choses, je vais donc m'en tenir aux certitudes. Tout d'abord, le batiment est immense, probablement 20 metres de hauteur. Pour pouvoir penetrer dans le secteur prive, il est necessaire de resoudre une egnime qui semble changer tout le temps... Finalement, une fois a l'interieur des agents intelligents ont essaye de m'arreter. Une fois dans le QG, les defenses semblent etre controle par un ordinateur central qui a tente de me bloquer entre 4 murs. Je pourrais faire certaines suppositions quant aux comportements des robots de defense, mais je prefere m'en tenir la pour l'instant. Je n'ai pas vraiment eu d'informations concernant la presence du batiment et des habitants, si ce n'est que ces derniers semblent tres avance technologiquement.
+
+# ======================================== #
+# ======================================== #
+# ===== Introduction
+# ======================================== #
+# ======================================== #
+
+introdution.gui.skip = Passer
+
+introduction.sentences.sentence1 = Cela fait maintenant 3 ans que PSA organise des travaux de recherche concernant l'ile de Satisa. Pour beaucoup, cette derniere reste le plus grand mystere de ce siecle.
+introduction.sentences.sentence2 = Connaissez-vous beaucoup d'endroit ou les ressources naturelles se regenerent d'elles memes ? Je pense que c'est une premiere... C'est pourquoi je suis en mission.
+introduction.sentences.sentence3 = Mon nom est Brice, je suis un ancien soldat des forces speciales... Pourquoi envoyer un soldat pour une mission de reconnaissance ? C'est bien plus complique que cela..
+introduction.sentences.sentence4 = Outre le phenomene surnaturelle de regeneration des ressources, un immense batiment de type non identifie est present, ma mission n'est pas d'inspecter la flore mais d'infiltrer ce batiment.
+introduction.sentences.sentence5 = Le capitaine Athel veut le plus de renseignements possibles concernant la structure du batiment, ces occupants, et le pourquoi de la presence de ce dernier sur l'ile.
+introduction.sentences.sentence6 = Mais avant cela, il me faudra preparer un camp et tout le necessaire pour l'infiltration... 
+
+# ======================================== #
+# ======================================== #
+# ===== THE CUBE
+# ======================================== #
+# ======================================== #
+
+# Interaction
+thecube.interaction.text.basicInteraction = Interagir : F
+thecube.interaction.text.trapInteraction = Pieger : F
+thecube.interaction.text.fragmentInteraction = Prendre le parchemin : F
+thecube.interaction.text.break = Casser : F
+
+# Menus
+thecube.gui.lose.reasonLose.catched = Vous vous etes fait prendre !
+thecube.gui.lose.reasonLose.overTime = Trop tard, les renforts sont arrives !
+thecube.gui.lose.reasonLose.tricked = Le systeme de defense vous a eu !
+thecube.gui.lose.buttonBack.text = Retour au menu
+
+# Egnima
+
+thecube.egnima.gui.lock1 = Verrou 1
+thecube.egnima.gui.lock2 = Verrou 2
+thecube.egnima.gui.lock3 = Verrou 3
+thecube.egnima.gui.lock4 = Verrou 4
+
+thecube.egnima.gui.door1 = Porte 1
+thecube.egnima.gui.door2 = Porte 2
+thecube.egnima.gui.door3 = Porte 3
+thecube.egnima.gui.door4 = Porte 4

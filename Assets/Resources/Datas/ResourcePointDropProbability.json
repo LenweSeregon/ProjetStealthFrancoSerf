@@ -1,0 +1,113 @@
+{
+  "items": [
+	{
+      "id": "coal_resource_point",
+      "name": "resourcePoint.coal.name",
+      "description": "resourcePoint.coal.description",
+      "respawnTime": 10,
+      "durabilityConsumption": 2,
+      "harvestTime": 3,
+      "eventName": "mining",
+      "probabilities": [
+        {
+          "idRawResource": "coal",
+          "probability": "1.0",
+          "quantityMin": "3",
+          "quantityMax": "5"
+        },
+        {
+          "idRawResource": "iron_ore",
+          "probability": "0.1",
+          "quantityMin": "1",
+          "quantityMax": "2"
+        }
+      ]
+    },
+    {
+      "id": "stone_resource_point",
+      "name": "resourcePoint.stone.name",
+      "description": "resourcePoint.stone.description",
+      "respawnTime": 10,
+      "durabilityConsumption": 2,
+      "harvestTime": 3,
+      "eventName": "mining",
+      "probabilities": [
+        {
+          "idRawResource": "stone",
+          "probability": "1.0",
+          "quantityMin": "3",
+          "quantityMax": "5"
+        },
+        {
+          "idRawResource": "iron_ore",
+          "probability": "0.1",
+          "quantityMin": "1",
+          "quantityMax": "1"
+        }
+      ]
+    },
+    {
+      "id": "iron_resource_point",
+      "name": "resourcePoint.iron.name",
+      "description": "resourcePoint.iron.description",
+      "respawnTime": 15,
+      "durabilityConsumption": 5,
+      "harvestTime": 5,
+      "eventName": "mining",
+      "probabilities": [
+        {
+          "idRawResource": "iron_ore",
+          "probability": "1.0",
+          "quantityMin": "3",
+          "quantityMax": "5"
+        },
+        {
+          "idRawResource": "copper_ore",
+          "probability": "0.1",
+          "quantityMin": "1",
+          "quantityMax": "1"
+        }
+      ]
+    },
+    {
+      "id": "copper_resource_point",
+      "name": "resourcePoint.copper.name",
+      "description": "resourcePoint.copper.description",
+      "respawnTime": 15,
+      "durabilityConsumption": 5,
+      "harvestTime": 5,
+      "eventName": "mining",
+      "probabilities": [
+        {
+          "idRawResource": "copper_ore",
+          "probability": "1.0",
+          "quantityMin": "2",
+          "quantityMax": "4"
+        },
+        {
+          "idRawResource": "iron_ore",
+          "probability": "1.0",
+          "quantityMin": "1",
+          "quantityMax": "2"
+        }
+      ]
+    },
+    {
+      "id": "maple_resource_point",
+      "name": "resourcePoint.maple.name",
+      "description": "resourcePoint.maple.description",
+      "respawnTime": 10,
+      "durabilityConsumption": 3,
+      "harvestTime": 3,
+      "eventName": "chopping",
+      "probabilities": [
+        {
+          "idRawResource": "maple_log",
+          "probability": "1.0",
+          "quantityMin": "3",
+          "quantityMax": "6"
+        }
+      ]
+    }
+  ]
+}
